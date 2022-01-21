@@ -1,0 +1,2 @@
+# Baseball-Project
+The purpose of this project was twofold: first, to determine the effect of external factors (temperature, wind speed, crowd size, etc...) on "internal" components of a baseball game. (game duration, runs scored, etc..). Finally, using the Kaggle dataset and Scikit-Learn, various machine learning models were implemented to predict the winner of the baseball game. This project was done as a part of the Cornell Sports Analytics Club during the Fall 2021 semester, and served as an interesting application of data science and machine learning for us.
